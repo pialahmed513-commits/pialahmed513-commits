@@ -3,15 +3,12 @@
 # 👋 Hi, I'm Parvez-Ahmed-Pial
 
 ### 💻 Frontend Developer | Java-Script | React | Next.js Enthusiast
-
-![Banner](![Banner](https://raw.githubusercontent.com/pialahmed/pialahmed/main/banner.png))
-
 ---
 
 ## 📍 Location & Contact
 
 * 📍 Faridpur, Dhaka, Bangladesh
-* 📧 [(pialahmed513@gmail.com])
+* 📧 pialahmed513@gmail.com
 
 ---
 ## 🙋‍♂️ About Me
