@@ -44,12 +44,12 @@ I am passionate about continuous learning and always strive to write clean, main
 ## 📊 GitHub Stats
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pialahmed513&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pialahmed513&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pialahmed513&theme=tokyonight)
 ---
 ## 📌 Pinned Projects
 
