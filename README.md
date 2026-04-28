@@ -43,11 +43,13 @@ I am passionate about continuous learning and always strive to write clean, main
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvez-ahmed-pial&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvez-ahmed-pial&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=parvez-ahmed-pial&theme=tokyonight)
 
 ---
 
