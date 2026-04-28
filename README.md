@@ -1,8 +1,6 @@
+# 👋 Hi, I'm Parvez Ahmed Pial 
 
-
-# 👋 Hi, I'm Parvez-Ahmed-Pial
-
-### 💻 Frontend Developer | Java-Script | React | Next.js Enthusiast
+### 💻 Frontend Developer | React | Next.js Enthusiast
 ---
 
 ## 📍 Location & Contact
@@ -11,15 +9,19 @@
 * 📧 pialahmed513@gmail.com
 
 ---
+
 ## 🙋‍♂️ About Me
+
 I am a dedicated Frontend Developer with a strong interest in creating high-quality, performant, and visually appealing web applications. I specialize in React and am currently deepening my knowledge of Next.js and modern web technologies.
 
 I am passionate about continuous learning and always strive to write clean, maintainable, and scalable code.
 
-- 🚀 Currently exploring Next.js and modern frontend architecture  
-- 🌐 Building a Tourism Website project  
-- 📚 Enhancing skills in JavaScript, APIs, and backend fundamentals  
-- 🎯 Aspiring to become a Full Stack Developer  
+* 🚀 Currently exploring Next.js and modern frontend architecture
+* 🌐 Building a Tourism Website project
+* 📚 Enhancing skills in JavaScript, APIs, and backend fundamentals
+* 🎯 Aspiring to become a Full Stack Developer
+
+---
 
 ## 🛠️ Skills
 
@@ -32,7 +34,7 @@ I am passionate about continuous learning and always strive to write clean, main
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/parvez-ahmed-pial-3ba13136a">LinkedIn</a> |
+  <a href="www.linkedin.com/in/parvez-ahmed-pial-3ba13136aLinkedIn</a> |
   <a href="https://tiktok.com/@yourprofile">Portfolio</a> |
   <a href="https://www.instagram.com/parvez._pial/">Instagram</a>
 </p>
@@ -41,10 +43,18 @@ I am passionate about continuous learning and always strive to write clean, main
 
 ## 📊 GitHub Stats
 
-![Pial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parvez-ahmed-pial\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername\&theme=tokyonight)
+
+---
+
+## 📌 Pinned Projects
+
+* 🌍 Tourism Website
+* 🛒 E-commerce App
+* 📱 Portfolio Website
 
 ---
