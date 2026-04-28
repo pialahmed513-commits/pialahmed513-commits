@@ -34,7 +34,7 @@ I am passionate about continuous learning and always strive to write clean, main
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/parvez-ahmed-pial-3ba13136aLinkedIn</a> |
+  <a href="www.linkedin.com/in/parvez-ahmed-pial-3ba13136a">linkedin</a> |
   <a href="https://tiktok.com/@yourprofile">Portfolio</a> |
   <a href="https://www.instagram.com/parvez._pial/">Instagram</a>
 </p>
