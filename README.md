@@ -2,29 +2,27 @@
 
 # 👋 Hi, I'm Parvez-Ahmed-Pial
 
-### 💻 Frontend Developer | React | Next.js Enthusiast
+### 💻 Frontend Developer | Java-Script | React | Next.js Enthusiast
 
-![Banner Image](https://your-banner-link.com)
+![Banner Image]([https://your-banner-link.com](https://chatgpt.com/s/m_69f0edd4e2a0819195787e4cd614af0a))
 
 ---
 
 ## 📍 Location & Contact
 
-* 📍 Kaliganj, Dhaka, Bangladesh
-* 📧 [your.email@example.com](mailto:your.email@example.com)
+* 📍 Faridpur, Dhaka, Bangladesh
+* 📧 [your.email@example.com](pialahmed513@gmail.com)
 
 ---
-
 ## 🙋‍♂️ About Me
+I am a dedicated Frontend Developer with a strong interest in creating high-quality, performant, and visually appealing web applications. I specialize in React and am currently deepening my knowledge of Next.js and modern web technologies.
 
-I am a passionate Frontend Developer who loves building modern and user-friendly web applications. Currently focusing on improving my skills in React and Next.js.
+I am passionate about continuous learning and always strive to write clean, maintainable, and scalable code.
 
-* 🚀 I’m exploring **Next.js**
-* 🌐 Working on a **Tourism Website**
-* 📚 Learning advanced **JavaScript & Backend basics**
-* ⚡ Goal: Become a Full Stack Developer
-
----
+- 🚀 Currently exploring Next.js and modern frontend architecture  
+- 🌐 Building a Tourism Website project  
+- 📚 Enhancing skills in JavaScript, APIs, and backend fundamentals  
+- 🎯 Aspiring to become a Full Stack Developer  
 
 ## 🛠️ Skills
 
@@ -37,9 +35,9 @@ I am a passionate Frontend Developer who loves building modern and user-friendly
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> |
-  <a href="https://tiktok.com/@yourprofile">TikTok</a> |
-  <a href="https://snapchat.com/add/yourprofile">Snapchat</a>
+  <a href="www.linkedin.com/in/parvez-ahmed-pial-3ba13136a">LinkedIn</a> |
+  <a href="https://tiktok.com/@yourprofile">Portfolio</a> |
+  <a href="https://www.instagram.com/parvez._pial/">Instagram</a>
 </p>
 
 ---
