@@ -4,14 +4,14 @@
 
 ### 💻 Frontend Developer | Java-Script | React | Next.js Enthusiast
 
-![Banner Image]([https://your-banner-link.com](https://chatgpt.com/s/m_69f0edd4e2a0819195787e4cd614af0a))
+![Banner](![Banner](https://raw.githubusercontent.com/pialahmed/pialahmed/main/banner.png))
 
 ---
 
 ## 📍 Location & Contact
 
 * 📍 Faridpur, Dhaka, Bangladesh
-* 📧 [your.email@example.com](pialahmed513@gmail.com)
+* 📧 [(pialahmed513@gmail.com])
 
 ---
 ## 🙋‍♂️ About Me
