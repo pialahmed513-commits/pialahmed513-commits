@@ -41,7 +41,7 @@ I am passionate about continuous learning and always strive to write clean, main
 
 ## 📊 GitHub Stats
 
-![Pial's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+![Pial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parvez-ahmed-pial\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
 
