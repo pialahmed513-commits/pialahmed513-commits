@@ -42,13 +42,15 @@ I am passionate about continuous learning and always strive to write clean, main
 ---
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pialahmed513&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pialahmed513&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+<!-- Stats and Languages side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=pialahmed513&theme=tokyonight" alt="GitHub Streak" />
+<!-- Streak in a separate line for better mobile UI -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 ## 📌 Pinned Projects
