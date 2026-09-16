@@ -35,7 +35,7 @@ I am passionate about continuous learning and always strive to write clean, main
 
 <p align="left">
   <a href="www.linkedin.com/in/parvez-ahmed-pial-3ba13136a">linkedin</a> |
-  <a href="[https://tiktok.com/@yourprofile](https://parvez-ahmed-pial-protfolio.vercel.app/)">Portfolio</a> |
+  <a href="https://parvez-ahmed-pial-protfolio.vercel.app">Portfolio</a> |
   <a href="https://www.instagram.com/parvez._pial/">Instagram</a>
 </p>
 
